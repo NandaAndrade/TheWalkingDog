@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TheWalkingDog.UseCase/1.0.0": {
+        "runtime": {
+          "TheWalkingDog.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheWalkingDog.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

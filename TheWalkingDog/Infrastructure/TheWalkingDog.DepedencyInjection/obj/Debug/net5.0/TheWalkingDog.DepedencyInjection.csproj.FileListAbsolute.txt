@@ -1,0 +1,11 @@
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\bin\Debug\net5.0\TheWalkingDog.DepedencyInjection.deps.json
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\bin\Debug\net5.0\TheWalkingDog.DepedencyInjection.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\bin\Debug\net5.0\ref\TheWalkingDog.DepedencyInjection.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\bin\Debug\net5.0\TheWalkingDog.DepedencyInjection.pdb
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.AssemblyInfoInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.AssemblyInfo.cs
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\ref\TheWalkingDog.DepedencyInjection.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.DepedencyInjection\obj\Debug\net5.0\TheWalkingDog.DepedencyInjection.pdb

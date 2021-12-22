@@ -1,0 +1,11 @@
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\bin\Debug\net5.0\TheWalkingDog.Gateway.Repository.deps.json
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\bin\Debug\net5.0\TheWalkingDog.Gateway.Repository.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\bin\Debug\net5.0\ref\TheWalkingDog.Gateway.Repository.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\bin\Debug\net5.0\TheWalkingDog.Gateway.Repository.pdb
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.AssemblyInfoInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.AssemblyInfo.cs
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\ref\TheWalkingDog.Gateway.Repository.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Repository\obj\Debug\net5.0\TheWalkingDog.Gateway.Repository.pdb

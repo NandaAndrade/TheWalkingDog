@@ -1,0 +1,11 @@
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\bin\Debug\net5.0\TheWalkingDog.Infrastructure.deps.json
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\bin\Debug\net5.0\TheWalkingDog.Infrastructure.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\bin\Debug\net5.0\ref\TheWalkingDog.Infrastructure.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\bin\Debug\net5.0\TheWalkingDog.Infrastructure.pdb
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.AssemblyInfo.cs
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\ref\TheWalkingDog.Infrastructure.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Infrastructure\TheWalkingDog.Infrastructure\obj\Debug\net5.0\TheWalkingDog.Infrastructure.pdb

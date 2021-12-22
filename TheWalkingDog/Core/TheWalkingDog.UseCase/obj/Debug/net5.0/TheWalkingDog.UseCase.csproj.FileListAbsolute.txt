@@ -1,0 +1,11 @@
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.AssemblyInfoInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.AssemblyInfo.cs
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\bin\Debug\net5.0\TheWalkingDog.UseCase.deps.json
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\bin\Debug\net5.0\TheWalkingDog.UseCase.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\bin\Debug\net5.0\ref\TheWalkingDog.UseCase.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\bin\Debug\net5.0\TheWalkingDog.UseCase.pdb
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\ref\TheWalkingDog.UseCase.dll
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Core\TheWalkingDog.UseCase\obj\Debug\net5.0\TheWalkingDog.UseCase.pdb
