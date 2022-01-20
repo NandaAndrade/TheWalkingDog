@@ -18,3 +18,4 @@ C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.
 C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Api\obj\Debug\net5.0\ref\TheWalkingDog.Gateway.Api.dll
 C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Api\obj\Debug\net5.0\TheWalkingDog.Gateway.Api.pdb
 C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Api\obj\Debug\net5.0\TheWalkingDog.Gateway.Api.genruntimeconfig.cache
+C:\Users\fandrade\Desktop\twd\TheWalkingDog\TheWalkingDog\Gateway\TheWalkingDog.Gateway.Api\obj\Debug\net5.0\TheWalkingDog.Gateway.Api.csproj.AssemblyReference.cache
