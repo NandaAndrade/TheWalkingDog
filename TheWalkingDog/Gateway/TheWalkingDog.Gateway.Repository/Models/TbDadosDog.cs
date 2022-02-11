@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheWalkingDog.Gateway.Repository.Models
 {
-    class TbCachorro
+    class TbDadosDog
     {
     }
 }

@@ -8,6 +8,7 @@ namespace TheWalkingDog.Gateway.Api.Models.Request
     public class CadastroDonoRequest
     {
         public string Nome { get; set; }
+        public string Cpf { get; set; }
         public EnderecoRequest Endereco { get; set; }
     }
 }

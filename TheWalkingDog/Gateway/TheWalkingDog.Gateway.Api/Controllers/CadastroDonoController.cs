@@ -8,11 +8,12 @@ namespace TheWalkingDog.Gateway.Api.Controllers
 {
     [ApiController]
     [Route("[Controller]")]
-    public class CadastroController : ControllerBase
+    public class CadastroDonoController : ControllerBase
     {
-        private readonly _IDonoRepository;
+        //private readonly _IDonoRepository;
 
-        public void CadastraDono(Dono dono)
+        [HttpPost]
+        public void CadastraDono([FromBody]Dono dono)
         {
 
         }
